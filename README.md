@@ -57,7 +57,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 This project is released under the [MIT License](LICENSE).  
 
 Feel free to modify and distribute in accordance with the license terms.  
-
----
-
-**Happy cleaning!** If you have any questions, feel free to reach out via the repositoryÅfs Issues page.
